@@ -1,0 +1,26 @@
+data cleaning
+fill miss values
+outliers and leverage points
+standrization (if needed)
+
+model selection.
+if Y is numeric:
+	KNN regression
+	linear regression
+	Polynomial regression
+	tree based methods
+	Ride regression
+	Lasso
+	PCR regression
+	PLS regression
+	Regression splines
+		piecewise Polynomials
+	GAMs
+
+elif y is catagorical:
+	KNN
+	logistic regression (if Y have exectry 2 classes)
+	SVM
+	LDA
+	GAMs
+	tree based methods
